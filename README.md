@@ -1,9 +1,9 @@
 # Network-Traffic-Analysis
 
-## Objective:
+### Objective:
 To create a tool that detects ARP Spoofing attacks in real-time, providing alerts to enhance network security.
 
-## Background:
+### Background:
 ARP Spoofing attacks involve malicious actors sending falsified ARP (Address Resolution Protocol) messages over a local network. This results in the linking of the attacker's MAC address with the IP address of a legitimate computer or server on the network, leading to potential data interception and unauthorized access.
 
 Features of the ARP Spoofer Detector:
